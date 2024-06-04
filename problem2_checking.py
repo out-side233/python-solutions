@@ -1,7 +1,4 @@
 #!/usr/bin/env python
-# coding: utf-8
-
-# In[44]:
 
 
 def mark(s):
@@ -32,18 +29,11 @@ def mark(s):
     return res
     
 
-
-# In[51]:
-
-
 s=[
 'bge)))))))))',
 '((IIII))))))',
 '()()()()(uuu',
 '))))UUUU((()']
-
-
-# In[52]:
 
 
 for c in s:
