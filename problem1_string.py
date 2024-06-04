@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[8]:
-
 
 def check(source,target):
     s=set(source)
@@ -21,17 +19,9 @@ def check(source,target):
             
 
 
-# In[9]:
-
-
 a=['abc','abc','xyz']
 b=['abcbc','acdbc','xzyxz']
 for x,y in zip(a,b):
     print(check(x,y))
-
-
-# In[ ]:
-
-
 
 
